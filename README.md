@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Manjunath" title="👋 "Hi there! I'm Manjunath/>
+![Header GIF](https://github.com/Mkondamu/Mkondamu/raw/main/intro.gif)
 <div align="justify">
 
 <p align="center">
@@ -220,3 +220,5 @@ Feel free to explore my projects and connect with me!
 ## GitHub Profile Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mkondamu&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Footer GIF](https://github.com/Mkondamu/Mkondamu/raw/main/footer.gif)
