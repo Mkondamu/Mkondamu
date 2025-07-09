@@ -1,4 +1,4 @@
-![Header GIF](https://github.com/Mkondamu/Mkondamu/raw/main/intro.gif)
+
 <div align="justify">
 
 <p align="center">
